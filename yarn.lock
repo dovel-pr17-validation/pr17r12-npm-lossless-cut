@@ -1238,10 +1238,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fontsource/open-sans@npm:^5.2.7":
-  version: 5.2.7
-  resolution: "@fontsource/open-sans@npm:5.2.7"
-  checksum: 10/7a1e17c852e0d84f5b7f61a1cbbe6eb829df1086b65205bedff92d626794f848039b3b9b580d56aedf6689d25b2b7da0c1b9489069a79077938f812eac9e612f
+"@fontsource/open-sans@npm:^5.3.0":
+  version: 5.3.0
+  resolution: "@fontsource/open-sans@npm:5.3.0"
+  checksum: 10/364dd860b90f46ef7cbdc963a988dc594a7181dad2ea6ebe262f11d4aa56c5b639de4f9dd37a7d54f0da9ca76ee3394f20da48d0ab5a297a71fb1d1adf5b61fd
   languageName: node
   linkType: hard
 
@@ -9541,7 +9541,7 @@ __metadata:
     "@dnd-kit/modifiers": "npm:^9.0.0"
     "@dnd-kit/sortable": "npm:^10.0.0"
     "@electron/remote": "npm:^2.1.3"
-    "@fontsource/open-sans": "npm:^5.2.7"
+    "@fontsource/open-sans": "npm:^5.3.0"
     "@radix-ui/colors": "npm:^3.0.0"
     "@radix-ui/react-alert-dialog": "npm:^1.1.15"
     "@radix-ui/react-checkbox": "npm:^1.3.3"
